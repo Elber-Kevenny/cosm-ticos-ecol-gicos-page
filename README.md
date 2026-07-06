@@ -1,5 +1,8 @@
-[LINK PARA DEMONSTRAÇÃO]()
-[]
+Eco Cosmetics
+
+[LINK PARA DEMONSTRAÇÃO](https://elber-kevenny.github.io/cosm-ticos-ecol-gicos-page/)
+
+[LAYOU FIGMA](https://www.figma.com/design/Fz588JKGuPS2Bk21De4KE5/Brand-of-eco-cosmetics-_FE-students?node-id=21779-631)
 
 A página Eco Cosmetics é uma Landing Page responsiva desenvolvida para uma marca fictícia de cosméticos ecológicos e velas artesanais. O projeto foca em sustentabilidade e apoio à preservação da vida selvagem, traduzindo esses valores em uma interface limpa, moderna e funcional.
 
